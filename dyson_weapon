@@ -1,7 +1,7 @@
 AddCSLuaFile()
 
 SWEP.PrintName = "Is that a dyson?" 
-SWEP.Author	= "Lord Dyson" 
+SWEP.Author = "Lord Dyson" 
 SWEP.Purpose = "Emits Dysons"
 
 SWEP.Spawnable = true
@@ -19,7 +19,7 @@ SWEP.Secondary.Ammo = "none"
 
 SWEP.Weight = 5
 SWEP.AutoSwitchTo = false
-SWEP.AutoSwitchFrom	= false
+SWEP.AutoSwitchFrom = false
 
 SWEP.Slot = 1
 SWEP.SlotPos = 2
